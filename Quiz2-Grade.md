@@ -4,6 +4,9 @@
 2. 05 (out of 25) Did not reflect what article stated. 
 3. 50 (out of 50) 
 
+-----
+Instructions from Assignment
+
 - Name every file exactly as directed!
 - Create a folder on your server called: `Quiz2` in your `/var/www/html` directory.
 
